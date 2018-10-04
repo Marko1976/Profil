@@ -1,0 +1,152 @@
+body
+{
+    background-image: url("pluie.jpg");
+
+}
+
+#profil
+{
+    display: block;
+    height: 1500px;
+    background-image: url("background.jpg");
+}
+
+#header
+{
+    display: block ;
+    padding-top: 20px;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 100px;
+    font-family: Arial;
+    color: blue;
+    background-color: forestgreen;
+
+}
+
+h2
+{
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial;
+    margin-top: 0px;
+}
+
+.marko
+{
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin-top: -200px;
+    margin-left: 100px;
+    border-radius: 150px 150px 150px 150px;
+}
+
+#description
+{
+    display: block;
+    width: 90%;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+p
+{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+}
+
+#listes
+{
+    display: block;
+    margin-top: 150px;
+}
+
+li
+{
+    margin-left: 20px;
+}
+
+.films
+{
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 15px 5px 15px 5px;
+    margin-left: 200px;
+    background-image: url("films.jpg");
+    opacity: 0.8;
+    font-weight: bold;
+}
+
+.musique
+{
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-image: url("livre.jpg");
+    opacity: 0.8;
+    font-weight: bold;
+
+}
+
+.sport
+{
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-image: url("sport.jpg");
+    opacity: 0.8;
+    font-weight: bold;
+}
+
+.l1, .l2, .l3
+{
+    font-size: 30px;
+    font-family: Arial;
+    color: black;
+}
+
+#sociaux
+{
+    height: 150px;
+    background-color: forestgreen;
+    margin-top: 80px;
+}
+
+.facebook
+{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    margin-left: 250px;
+    border-radius: 150px 150px 150px 150px;
+}
+
+.linkedin
+{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    margin-left: 100px;
+}
+
+.twitter
+{
+
+    border: 1px solid black;
+    width: 300px;
+    height: 150px;
+    margin-left: 100px;
+    border-radius: 150px 150px 150px 150px;
+}
